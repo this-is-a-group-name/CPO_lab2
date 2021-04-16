@@ -1,2 +1,19 @@
 # CPO_lab2
-lab2 for CPO in ITMO
+#### basic info
+
+- **laboratory work number** :this is a group name
+- **variant description** : Lambda-calculus(variants 4)
+- **list of group members** : Zhang Mingqing ; Wang Zetian
+
+#### contribution
+
+- contribution summary for each group member (should be checkable by git log and git blame);
+
+  - Zhang Mingqing Complete the Abstraction part
+
+  - Wang Zetian Complete the Application part
+
+  - Together to Complete readme.md and other parts
+
+    
+
