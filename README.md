@@ -7,7 +7,7 @@
 
 #### contribution
 
-- contribution summary for each group member (should be checkable by git log and git blame);
+- contribution summary for each group member 
 
   - Zhang Mingqing Complete the Abstraction part
 
